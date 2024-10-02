@@ -1,1 +1,3 @@
 # invoice_scanner
+
+The Invoice Scanner is a web-based application designed to automate the process of extracting, classifying, and storing invoice information from PDF or image files. Using OCR (Optical Character Recognition) technology, the system reads invoices, parses key data such as invoice numbers, vendor names, dates, and line items, and stores the information in a structured database for easy retrieval. The application offers users the ability to upload invoices, view the extracted details, and download the results in various formats (text, PDF, audio). It is built using Python, Flask, OpenCV, and Tesseract OCR, ensuring a smooth and efficient experience in handling and managing invoices.
